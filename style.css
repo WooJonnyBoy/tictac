@@ -307,11 +307,11 @@ body {
 }
 @media (orientation: landscape) {
   .lines {
-    width: 90vh;
-    height: 90vh;
+    width: 90dvh;
+    height: 90dvh;
   }
   .pool {
-    width: 90vh;
+    width: 90dvh;
     height: 90dvh;
   }
 }
