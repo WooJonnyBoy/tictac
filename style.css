@@ -304,9 +304,6 @@ body {
   }
 }
 @media (max-height: 700px) {
-  .container .info {
-    top: 0.5rem;
-  }
 }
 @media (orientation: landscape) {
   .lines {
